@@ -1,8 +1,9 @@
 ﻿# [STM32](https://github.com/sochub/STM32) 
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
-
-#### 归属：[arm cortex M](https://github.com/sochub/CM) 
+#### 厂商：[ST](https://github.com/sochub/ST)
+#### 架构：[Cortex M](https://github.com/sochub/CM) 
+#### 芯片定级：[Level](https://github.com/sochub/Level)
 
 ## [简介](https://github.com/sochub/STM32/wiki)
 
@@ -33,14 +34,11 @@
 
 ### [关联资源](https://github.com/sochub)
 
-* [编译工具](https://github.com/sochub/arm-none-eabi)
+* [开发工具](https://github.com/sochub/SDK)
+* [STM8系列](https://github.com/sochub/STM8) 
 
 ### [选型建议](https://github.com/sochub)
 
-[STM32F407](https://github.com/sochub/STM32F407) 是性价比极高的一款产品，拥有大量该系列拥有的外设，也是在各种硬件中应用广泛的产品。
-
-* 向下替换方案 [STM32F105](https://github.com/sochub/STM32F105) 
-* 近似替换方案 [STM32F429](https://github.com/sochub/STM32F429) 
-* 性能替换方案 [STM32H750](https://github.com/sochub/STM32H750) 
+[STM32](https://github.com/sochub/STM32) 是消费领域非常普及的产品，拥有大量的开发资源和群体，各种工具十分便捷高效，基于cubeMX工具可以实现平台快速迁移。
 
 ##  [SoC资源平台](http://www.qitas.cn)
