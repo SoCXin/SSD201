@@ -1,0 +1,7 @@
+{
+    "name": "STM32",
+    "description": "ST Cortex MCU",
+    "system": "*",
+    "url": "https://github.com/SoCXin/STM32",
+    "version": "1.0.0"
+}

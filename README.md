@@ -1,44 +1,18 @@
-﻿# [STM32](https://github.com/sochub/STM32) 
+﻿# [STM32](https://github.com/SoCXin/STM32)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 厂商：[ST](https://github.com/sochub/ST)
-#### 架构：[Cortex M](https://github.com/sochub/CM) 
-#### 芯片定级：[Level](https://github.com/sochub/Level)
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-## [简介](https://github.com/sochub/STM32/wiki)
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[ST](https://www.st.com/)
 
-[![sites](SoC/STM32.jpg)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) 
-[![sites](SoC/STM32L.jpg)](https://www.st.com/en/microcontrollers-microprocessors/stm32-mainstream-mcus.html) 
-[![sites](SoC/STM32H.jpg)](https://www.st.com/en/microcontrollers-microprocessors/stm32-high-performance-mcus.html) 
+[STM32](https://github.com/SoCXin/STM32) 系列产品
+### 关键特性
 
-### [收录系列](https://github.com/sochub/STM32)
 
-功能版本
+### [收录资源](https://github.com/SoCXin)
 
-* [STM32F0](https://github.com/sochub/STM32F0) 
-* [STM32G0](https://github.com/sochub/STM32G0) 
-* [STM32F1](https://github.com/sochub/STM32F1) 
-* [STM32F3](https://github.com/sochub/STM32F3) 
+* [参考文档](docs/)
+* [参考资源](src/)
 
-性能版本
+###  [SoC芯平台](http://www.SoC.Xin)
 
-* [STM32F2](https://github.com/sochub/STM32F2) 
-* [STM32F4](https://github.com/sochub/STM32F4) 
-* [STM32F7](https://github.com/sochub/STM32F7) 
-* [STM32H7](https://github.com/sochub/STM32H7) 
 
-功耗版本
-
-* [STM32L0](https://github.com/sochub/STM32L0) 
-* [STM32L1](https://github.com/sochub/STM32L1) 
-
-### [关联资源](https://github.com/sochub)
-
-* [开发工具](https://github.com/sochub/SDK)
-* [STM8系列](https://github.com/sochub/STM8) 
-
-### [选型建议](https://github.com/sochub)
-
-[STM32](https://github.com/sochub/STM32) 是消费领域非常普及的产品，拥有大量的开发资源和群体，各种工具十分便捷高效，基于cubeMX工具可以实现平台快速迁移。
-
-##  [SoC资源平台](http://www.qitas.cn)
